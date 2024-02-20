@@ -1,0 +1,27 @@
+title: Algebra & Combinatorics Reading Group
+tagline: The reading group for the Algebra & Combinatorics research group at the University of Galway.
+description: The homepage for the reading group for the Algebra & Combinatorics research group at the University of Galway.
+author: Joshua Maglione
+url: "https://acreadinggroup.github.io"
+baseurl: ""
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap 
+  - jekyll-seo-tag
+
+exclude:
+  - LICENSE
+  - .gitignore
+  - README.md
+  - docs
+
+include:
+  - .htaccess 
+
+# theme: jekyll-theme-midnight
