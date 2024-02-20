@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2024-02-20T20:35:54+00:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">Combinatorial Hodge Theory</title><link href="https://acreadinggroup.github.io/2024/01/08/Combinatorial_Hodge.html" rel="alternate" type="text/html" title="Combinatorial Hodge Theory" /><published>2024-01-08T12:00:00+00:00</published><updated>2024-01-08T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2024/01/08/Combinatorial_Hodge</id><content type="html" xml:base="https://acreadinggroup.github.io/2024/01/08/Combinatorial_Hodge.html"><![CDATA[<p>We are reading texts that cover the somewhat new field of combinatorial Hodge theory. Our primary sources are</p>
+<ul>
+  <li><a href="https://web.math.princeton.edu/~huh/ICM2022.pdf">Combinatorics and Hodge Theory</a> by <a href="https://web.math.princeton.edu/~huh/">June Huh</a>,</li>
+  <li><a href="https://people.math.harvard.edu/~jxwang/HodgeTheoryMatroids.pdf">Hodge theory for matroids</a> by <a href="https://math.mit.edu/~joshuaxw/">Joshua Wang</a></li>
+</ul>
+
+<p>We meet on Fridays at 1:00pm. Contact <a href="mailto:joshua.maglione@universityofgalway.ie">Joshua Maglione</a> if you are interested in joining.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Reading</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>12 Jan</td>
+      <td>Voted</td>
+    </tr>
+    <tr>
+      <td>19 Jan</td>
+      <td>pp. 212–218 Huh</td>
+    </tr>
+    <tr>
+      <td>26 Jan</td>
+      <td>pp. 217–222 Huh</td>
+    </tr>
+    <tr>
+      <td>02 Feb</td>
+      <td>Section 2 Huh</td>
+    </tr>
+    <tr>
+      <td>09 Feb</td>
+      <td>Sections 1 &amp; 2 Wang</td>
+    </tr>
+    <tr>
+      <td>16 Feb</td>
+      <td>pp. 12–16 Wang</td>
+    </tr>
+    <tr>
+      <td>23 Feb</td>
+      <td>pp. 12–16 Wang</td>
+    </tr>
+    <tr>
+      <td>01 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>08 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>15 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>22 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>29 Mar</td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Joshua Maglione</name></author><summary type="html"><![CDATA[We are reading texts that cover the somewhat new field of combinatorial Hodge theory. Our primary sources are Combinatorics and Hodge Theory by June Huh, Hodge theory for matroids by Joshua Wang]]></summary></entry><entry><title type="html">Combinatorial Commutative Algebra</title><link href="https://acreadinggroup.github.io/2023/09/01/Combinatorial_Algebra.html" rel="alternate" type="text/html" title="Combinatorial Commutative Algebra" /><published>2023-09-01T13:00:00+01:00</published><updated>2023-09-01T13:00:00+01:00</updated><id>https://acreadinggroup.github.io/2023/09/01/Combinatorial_Algebra</id><content type="html" xml:base="https://acreadinggroup.github.io/2023/09/01/Combinatorial_Algebra.html"><![CDATA[<p>We are reading the first chapter of <a href="https://math.mit.edu/~rstan/">Richard P. Stanley</a>’s <a href="https://doi.org/10.1007/b139094">Combinatorics and Commutative Algebra</a> book.</p>]]></content><author><name>Joshua Maglione</name></author><summary type="html"><![CDATA[We are reading the first chapter of Richard P. Stanley’s Combinatorics and Commutative Algebra book.]]></summary></entry></feed>
