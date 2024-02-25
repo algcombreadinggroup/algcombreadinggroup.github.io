@@ -21,7 +21,7 @@ We meet on Fridays at 1:00pm. Contact [Joshua Maglione](mailto:joshua.maglione@u
 | 09 Feb | Sections 1 & 2 Wang   |
 | 16 Feb | pp. 12&ndash;16 Wang  |
 | 23 Feb | pp. 12&ndash;16 Wang  |
-| 01 Mar | TBD |
+| 01 Mar | pp. 15&ndash;22 Wang  |
 | 08 Mar | TBD |
 | 15 Mar | TBD |
 | 22 Mar | TBD |
