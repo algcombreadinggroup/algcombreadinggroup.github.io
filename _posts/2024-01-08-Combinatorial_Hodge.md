@@ -12,17 +12,17 @@ We are reading texts that cover the somewhat new field of combinatorial Hodge th
 
 We meet on Fridays at 1:00pm. Contact [Joshua Maglione](mailto:joshua.maglione@universityofgalway.ie) if you are interested in joining.
 
-| Date   | Reading               | 
-| ------ | --------------------- | 
-| 12 Jan | Voted                 | 
-| 19 Jan | pp. 212&ndash;218 Huh |
-| 26 Jan | pp. 217&ndash;222 Huh |
-| 02 Feb | Section 2 Huh         |
-| 09 Feb | Sections 1 & 2 Wang   |
-| 16 Feb | pp. 12&ndash;16 Wang  |
-| 23 Feb | pp. 12&ndash;16 Wang  |
-| 01 Mar | pp. 15&ndash;22 Wang  |
-| 08 Mar | pp. 18&ndash;22 Wang  |
-| 15 Mar | TBD |
+| Date   | Reading                 | 
+| ------ | ----------------------- | 
+| 12 Jan | Voted                   | 
+| 19 Jan | pp. 212&ndash;218 Huh   |
+| 26 Jan | pp. 217&ndash;222 Huh   |
+| 02 Feb | Section 2 Huh           |
+| 09 Feb | Sections 1 & 2 Wang     |
+| 16 Feb | pp. 12&ndash;16 Wang    |
+| 23 Feb | pp. 12&ndash;16 Wang    |
+| 01 Mar | pp. 15&ndash;22 Wang    |
+| 08 Mar | pp. 18&ndash;22 Wang    |
+| 15 Mar | Sections 3.2 & 4.1 Wang |
 | 22 Mar | TBD |
 | 29 Mar | TBD |

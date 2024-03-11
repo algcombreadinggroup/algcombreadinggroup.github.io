@@ -20,6 +20,7 @@ exclude:
   - .gitignore
   - README.md
   - docs
+  - build.sh
 
 include:
   - .htaccess 
