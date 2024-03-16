@@ -24,5 +24,4 @@ We meet on Fridays at 1:00pm. Contact [Joshua Maglione](mailto:joshua.maglione@u
 | 01 Mar | pp. 15&ndash;22 Wang    |
 | 08 Mar | pp. 18&ndash;22 Wang    |
 | 15 Mar | Sections 3.2 & 4.1 Wang |
-| 22 Mar | TBD |
-| 29 Mar | TBD |
+| 22 Mar | Sections 4.2 & 4.3 Wang |
