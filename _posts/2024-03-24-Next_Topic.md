@@ -1,15 +1,27 @@
 ---
 layout: post
-title: "Upcoming decision"
+title: "Hopf Algebras in Combinatorics"
 subtitle: 9 September &ndash; 29 November 2024
 date: 2024-03-24 08:00:00 -0400
 background: "/img/rory-hennessey-UR-9hOEW-Ww-unsplash.jpg"
 ---
 
-We need to decide on the next topic for the reading group. Feel free to suggest a topic---write to [Joshua Maglione](mailto:joshua.maglione@universityofgalway.ie). 
+We are reading texts that on Hopf algebras in combinatorics. Our primary source is
+- [Hopf Algebras in Combinatorics](https://arxiv.org/abs/1409.8356)
 
-The current suggestions are:
-- [Commutative association schemes](https://arxiv.org/abs/0811.2475) (RQ)
-- [Geometry of flag varieties](https://arxiv.org/pdf/math/0410240.pdf) (JM)
-- [Hopf Algebras in Combinatorics](https://arxiv.org/abs/1409.8356) (TR)
-- [Schubert geometry and combinatorics](https://arxiv.org/pdf/2303.01436.pdf) (JM)
+We meet on Thursdays at 11:00am. Contact [Joshua Maglione](mailto:joshua.maglione@universityofgalway.ie) if you are interested in joining.
+
+| Date   | Reading                 | 
+| ------ | ----------------------- | 
+| 12 Sep | pp. 3&ndash;12 (Grinberg&ndash;Reiner) | 
+| 19 Sep |  TBD  |
+| 26 Sep |  TBD  |
+| 03 Oct |  TBD  |
+| 10 Oct |  TBD  |
+| 17 Oct |  TBD  |
+| 24 Oct |  TBD  |
+| 31 Oct |  TBD  |
+| 07 Mar |  TBD  |
+| 14 Mar |  TBD  |
+| 21 Mar |  TBD  |
+| 28 Mar |  TBD  | 
