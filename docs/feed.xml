@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2024-09-30T12:44:32+01:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">Hopf Algebras in Combinatorics</title><link href="https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras.html" rel="alternate" type="text/html" title="Hopf Algebras in Combinatorics" /><published>2024-03-24T12:00:00+00:00</published><updated>2024-03-24T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras</id><content type="html" xml:base="https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras.html"><![CDATA[<p>We are reading texts that on Hopf algebras in combinatorics. Our primary source is</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2024-10-07T09:21:52+01:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">Hopf Algebras in Combinatorics</title><link href="https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras.html" rel="alternate" type="text/html" title="Hopf Algebras in Combinatorics" /><published>2024-03-24T12:00:00+00:00</published><updated>2024-03-24T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras</id><content type="html" xml:base="https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras.html"><![CDATA[<p>We are reading texts that on Hopf algebras in combinatorics. Our primary source is</p>
 <ul>
   <li><a href="https://arxiv.org/abs/1409.8356">Hopf Algebras in Combinatorics</a></li>
 </ul>
@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td>10 Oct</td>
-      <td>TBD</td>
+      <td>Sec. 2.1–2.2 (GR)</td>
     </tr>
     <tr>
       <td>17 Oct</td>

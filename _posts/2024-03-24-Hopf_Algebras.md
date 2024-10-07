@@ -17,7 +17,7 @@ We meet on Thursdays at 11:00am. Contact [Joshua Maglione](mailto:joshua.maglion
 | 19 Sep |  Sec. 1.3 (GR) |
 | 26 Sep |  pp. 15&ndash;21 (GR) |
 | 03 Oct |  Sec. 1.4&ndash;1.6 (GR) |
-| 10 Oct |  TBD  |
+| 10 Oct |  Sec. 2.1&ndash;2.2 (GR) |
 | 17 Oct |  TBD  |
 | 24 Oct |  TBD  |
 | 31 Oct |  TBD  |
