@@ -1,12 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2025-01-10T13:42:32+00:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">To be determined</title><link href="https://acreadinggroup.github.io/2025/01/06/TBD.html" rel="alternate" type="text/html" title="To be determined" /><published>2025-01-06T12:00:00+00:00</published><updated>2025-01-06T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2025/01/06/TBD</id><content type="html" xml:base="https://acreadinggroup.github.io/2025/01/06/TBD.html"><![CDATA[<p>We need to decide on the next topic for the reading group. Feel free to suggest a topic—write to Joshua Maglione.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2025-01-17T11:44:17+00:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">To be determined</title><link href="https://acreadinggroup.github.io/2025/01/06/TBD.html" rel="alternate" type="text/html" title="To be determined" /><published>2025-01-06T12:00:00+00:00</published><updated>2025-01-06T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2025/01/06/TBD</id><content type="html" xml:base="https://acreadinggroup.github.io/2025/01/06/TBD.html"><![CDATA[<p>We are reading texts on Schubert geometry and combinatoics. Our first source is</p>
+<ul>
+  <li><a href="https://arxiv.org/pdf/2303.01436">Schubert Geometry and Combinatoics</a> by <a href="https://webpages.uidaho.edu/AlexanderWoo/">Alexander Woo</a> and <a href="https://ayong.web.illinois.edu/">Alexander Yong</a></li>
+</ul>
 
-<p>The current suggestions are:</p>
+<p>We meet on Fridays at 1:00pm. Contact <a href="mailto:joshua.maglione@universityofgalway.ie">Joshua Maglione</a> if you are interested in joining.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Reading</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>24 Jan</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>31 Jan</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>07 Feb</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>14 Feb</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>21 Feb</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>28 Feb</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>07 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>14 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>21 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>28 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>04 Apr</td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Joshua Maglione</name></author><summary type="html"><![CDATA[We are reading texts on Schubert geometry and combinatoics. Our first source is Schubert Geometry and Combinatoics by Alexander Woo and Alexander Yong]]></summary></entry><entry><title type="html">Hopf Algebras in Combinatorics</title><link href="https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras.html" rel="alternate" type="text/html" title="Hopf Algebras in Combinatorics" /><published>2024-03-24T12:00:00+00:00</published><updated>2024-03-24T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras</id><content type="html" xml:base="https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras.html"><![CDATA[<p>We are reading texts on Hopf algebras in combinatorics. Our primary source is</p>
 <ul>
-  <li><a href="https://doi.org/10.1017/CBO9781107325913">Combinatorial Species and Tree-like Structures</a> (TR)</li>
-  <li><a href="https://arxiv.org/pdf/2303.01436">Schubert Geometry and Combinatorics</a> (JM)</li>
-</ul>]]></content><author><name>Joshua Maglione</name></author><summary type="html"><![CDATA[We need to decide on the next topic for the reading group. Feel free to suggest a topic—write to Joshua Maglione.]]></summary></entry><entry><title type="html">Hopf Algebras in Combinatorics</title><link href="https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras.html" rel="alternate" type="text/html" title="Hopf Algebras in Combinatorics" /><published>2024-03-24T12:00:00+00:00</published><updated>2024-03-24T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras</id><content type="html" xml:base="https://acreadinggroup.github.io/2024/03/24/Hopf_Algebras.html"><![CDATA[<p>We are reading texts that on Hopf algebras in combinatorics. Our primary source is</p>
-<ul>
-  <li><a href="https://arxiv.org/abs/1409.8356">Hopf Algebras in Combinatorics</a></li>
+  <li><a href="https://arxiv.org/abs/1409.8356">Hopf Algebras in Combinatorics</a> by <a href="https://www.cip.ifi.lmu.de/~grinberg/index.html">Darij Grinberg</a> and <a href="https://www-users.cse.umn.edu/~reiner/">Victor Reiner</a></li>
 </ul>
 
 <p>We meet on Thursdays at 11:00am. Contact <a href="mailto:joshua.maglione@universityofgalway.ie">Joshua Maglione</a> if you are interested in joining.</p>
@@ -68,7 +122,7 @@
       <td>Sec. 8 (GR)</td>
     </tr>
   </tbody>
-</table>]]></content><author><name>Joshua Maglione</name></author><summary type="html"><![CDATA[We are reading texts that on Hopf algebras in combinatorics. Our primary source is Hopf Algebras in Combinatorics]]></summary></entry><entry><title type="html">Combinatorial Hodge Theory</title><link href="https://acreadinggroup.github.io/2024/01/08/Combinatorial_Hodge.html" rel="alternate" type="text/html" title="Combinatorial Hodge Theory" /><published>2024-01-08T12:00:00+00:00</published><updated>2024-01-08T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2024/01/08/Combinatorial_Hodge</id><content type="html" xml:base="https://acreadinggroup.github.io/2024/01/08/Combinatorial_Hodge.html"><![CDATA[<p>We are reading texts that cover the somewhat new field of combinatorial Hodge theory. Our primary sources are</p>
+</table>]]></content><author><name>Joshua Maglione</name></author><summary type="html"><![CDATA[We are reading texts on Hopf algebras in combinatorics. Our primary source is Hopf Algebras in Combinatorics by Darij Grinberg and Victor Reiner]]></summary></entry><entry><title type="html">Combinatorial Hodge Theory</title><link href="https://acreadinggroup.github.io/2024/01/08/Combinatorial_Hodge.html" rel="alternate" type="text/html" title="Combinatorial Hodge Theory" /><published>2024-01-08T12:00:00+00:00</published><updated>2024-01-08T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2024/01/08/Combinatorial_Hodge</id><content type="html" xml:base="https://acreadinggroup.github.io/2024/01/08/Combinatorial_Hodge.html"><![CDATA[<p>We are reading texts that cover the somewhat new field of combinatorial Hodge theory. Our primary sources are</p>
 <ul>
   <li><a href="https://web.math.princeton.edu/~huh/ICM2022.pdf">Combinatorics and Hodge Theory</a> by <a href="https://web.math.princeton.edu/~huh/">June Huh</a>,</li>
   <li><a href="https://people.math.harvard.edu/~jxwang/HodgeTheoryMatroids.pdf">Hodge theory for matroids</a> by <a href="https://math.mit.edu/~joshuaxw/">Joshua Wang</a></li>

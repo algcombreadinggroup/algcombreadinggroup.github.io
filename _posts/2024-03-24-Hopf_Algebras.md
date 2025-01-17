@@ -6,8 +6,8 @@ date: 2024-03-24 08:00:00 -0400
 background: "/img/rory-hennessey-UR-9hOEW-Ww-unsplash.jpg"
 ---
 
-We are reading texts that on Hopf algebras in combinatorics. Our primary source is
-- [Hopf Algebras in Combinatorics](https://arxiv.org/abs/1409.8356)
+We are reading texts on Hopf algebras in combinatorics. Our primary source is
+- [Hopf Algebras in Combinatorics](https://arxiv.org/abs/1409.8356) by [Darij Grinberg](https://www.cip.ifi.lmu.de/~grinberg/index.html) and [Victor Reiner](https://www-users.cse.umn.edu/~reiner/)
 
 We meet on Thursdays at 11:00am. Contact [Joshua Maglione](mailto:joshua.maglione@universityofgalway.ie) if you are interested in joining.
 
