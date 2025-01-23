@@ -13,8 +13,8 @@ We meet on Fridays at 1:00pm. Contact [Joshua Maglione](mailto:joshua.maglione@u
 
 | Date   | Reading                 | 
 | ------ | ----------------------- | 
-| 24 Jan | Sections 1 -- 2.1 (WY)  | 
-| 31 Jan | TBD |
+| 24 Jan | *canceled due to storm* | 
+| 31 Jan | Sections 1 -- 2.1 (WY)  |
 | 07 Feb | TBD |
 | 14 Feb | TBD |
 | 21 Feb | TBD |
