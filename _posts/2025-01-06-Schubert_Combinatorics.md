@@ -16,7 +16,7 @@ We meet on Fridays at 1:00pm. Contact [Joshua Maglione](mailto:joshua.maglione@u
 | 24 Jan | *canceled due to storm* | 
 | 31 Jan | Sections 1 -- 2.1 (WY)  |
 | 07 Feb | pp. 7 -- 13 (WY) |
-| 14 Feb | TBD |
+| 14 Feb | pp. 12 -- 15 (WY) |
 | 21 Feb | TBD |
 | 28 Feb | TBD |
 | 07 Mar | TBD |
