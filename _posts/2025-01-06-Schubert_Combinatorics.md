@@ -20,7 +20,7 @@ We meet on Fridays at 1:00pm. Contact [Joshua Maglione](mailto:joshua.maglione@u
 | 21 Feb | Section 4 (WY) |
 | 28 Feb | pp. 18 -- 21 (WY) |
 | 07 Mar | pp. 21 -- 26 (WY) |
-| 14 Mar | TBD |
+| 14 Mar | *canceled* |
 | 21 Mar | TBD |
 | 28 Mar | TBD | 
 | 04 Apr | TBD | 
