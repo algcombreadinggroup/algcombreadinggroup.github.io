@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2025-10-29T15:11:03+00:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">Theory of Species of Structures</title><link href="https://acreadinggroup.github.io/2025/08/10/Species.html" rel="alternate" type="text/html" title="Theory of Species of Structures" /><published>2025-08-10T13:00:00+01:00</published><updated>2025-08-10T13:00:00+01:00</updated><id>https://acreadinggroup.github.io/2025/08/10/Species</id><content type="html" xml:base="https://acreadinggroup.github.io/2025/08/10/Species.html"><![CDATA[<p>We are reading texts on the theory of species of structures. Our first source is</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2025-11-10T10:02:48+00:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">Theory of Species of Structures</title><link href="https://acreadinggroup.github.io/2025/08/10/Species.html" rel="alternate" type="text/html" title="Theory of Species of Structures" /><published>2025-08-10T13:00:00+01:00</published><updated>2025-08-10T13:00:00+01:00</updated><id>https://acreadinggroup.github.io/2025/08/10/Species</id><content type="html" xml:base="https://acreadinggroup.github.io/2025/08/10/Species.html"><![CDATA[<p>We are reading texts on the theory of species of structures. Our first source is</p>
 <ul>
   <li><a href="https://bergeron.math.uqam.ca/wp-content/uploads/2013/11/book.pdf">Introduction to the Theory of Species of Structures</a> by <a href="https://bergeron.math.uqam.ca/">François Bergeron</a>, Gilbert Labelle, and Pierre Leroux</li>
 </ul>
@@ -42,12 +42,16 @@
       <td>Section 2.3 (BLL)</td>
     </tr>
     <tr>
-      <td>05 Nov</td>
+      <td>29 Oct</td>
       <td>Section 2.4 (BLL)</td>
     </tr>
     <tr>
-      <td>12 Nov</td>
+      <td>05 Nov</td>
       <td>Section 3.1 (BLL)</td>
+    </tr>
+    <tr>
+      <td>12 Nov</td>
+      <td>Section 3.2 (BLL)</td>
     </tr>
     <tr>
       <td>19 Nov</td>
