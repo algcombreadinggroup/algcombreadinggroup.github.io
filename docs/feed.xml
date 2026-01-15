@@ -1,30 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2026-01-12T20:51:01+00:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">Deciding the next topic</title><link href="https://acreadinggroup.github.io/2026/01/05/TBD.html" rel="alternate" type="text/html" title="Deciding the next topic" /><published>2026-01-05T12:00:00+00:00</published><updated>2026-01-05T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2026/01/05/TBD</id><content type="html" xml:base="https://acreadinggroup.github.io/2026/01/05/TBD.html"><![CDATA[<p>We need to decide on a topic to discuss for the semester. Here is the current list of suggestions:</p>
-<ol>
-  <li>Lorentzian polynomials (JM)
-    <ul>
-      <li><a href="https://doi.org/10.48550/arXiv.1902.03719">Lorentzian polynomials</a> by Petter Brändén and June Huh</li>
-      <li><a href="https://doi.org/10.4171/icm2022/205">Combinatorics and Hodge theory</a> by June Huh</li>
-      <li><a href="https://doi.org/10.48550/arXiv.2508.08391">Volume Polynomials and Log-concavity of the Characteristic Polynomials of Matroids</a> by Eric Katz (JC)</li>
-    </ul>
-  </li>
-  <li>Representation stability (TR)
-    <ul>
-      <li><a href="https://doi.org/10.1090/noti2011">Structures in Representation Stability</a> by Steven V Sam</li>
-      <li><a href="https://math.uchicago.edu/~farb/papers/ICM-webpage.pdf">Representation stability</a> by Benson Farb</li>
-    </ul>
-  </li>
-  <li>Random matrices and Cohen–Lenstra heuristics (JM)
-    <ul>
-      <li><a href="https://doi-org.nuigalway.idm.oclc.org/10.1016/j.aim.2023.109451">Universality of cokernels of random matrix products</a> by Hoi H. Nguyen and Roger Van Peski</li>
-      <li><a href="https://doi.org/10.1353/ajm.2019.0008">Random integral matrices and the Cohen–Lenstra heuristics</a> by Melanie Matchett Wood</li>
-    </ul>
-  </li>
-  <li>Proof of the g-Conjecture (JC)
-    <ul>
-      <li><a href="https://doi.org/10.48550/arXiv.2012.09815">The characteristic 2 anisotropicity of simplicial spheres</a> by Stavros Argyrios Papadakis and Vasiliki Petrotou</li>
-    </ul>
-  </li>
-</ol>]]></content><author><name>Joshua Maglione</name></author><summary type="html"><![CDATA[We need to decide on a topic to discuss for the semester. Here is the current list of suggestions: Lorentzian polynomials (JM) Lorentzian polynomials by Petter Brändén and June Huh Combinatorics and Hodge theory by June Huh Volume Polynomials and Log-concavity of the Characteristic Polynomials of Matroids by Eric Katz (JC) Representation stability (TR) Structures in Representation Stability by Steven V Sam Representation stability by Benson Farb Random matrices and Cohen–Lenstra heuristics (JM) Universality of cokernels of random matrix products by Hoi H. Nguyen and Roger Van Peski Random integral matrices and the Cohen–Lenstra heuristics by Melanie Matchett Wood Proof of the g-Conjecture (JC) The characteristic 2 anisotropicity of simplicial spheres by Stavros Argyrios Papadakis and Vasiliki Petrotou]]></summary></entry><entry><title type="html">Theory of Species of Structures</title><link href="https://acreadinggroup.github.io/2025/08/10/Species.html" rel="alternate" type="text/html" title="Theory of Species of Structures" /><published>2025-08-10T13:00:00+01:00</published><updated>2025-08-10T13:00:00+01:00</updated><id>https://acreadinggroup.github.io/2025/08/10/Species</id><content type="html" xml:base="https://acreadinggroup.github.io/2025/08/10/Species.html"><![CDATA[<p>We are reading texts on the theory of species of structures. Our sources are</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2026-01-15T13:38:28+00:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">Random $p$-adic Matrices</title><link href="https://acreadinggroup.github.io/2026/01/05/Random_p-adic_Matrices.html" rel="alternate" type="text/html" title="Random $p$-adic Matrices" /><published>2026-01-05T12:00:00+00:00</published><updated>2026-01-05T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2026/01/05/Random_p-adic_Matrices</id><content type="html" xml:base="https://acreadinggroup.github.io/2026/01/05/Random_p-adic_Matrices.html"><![CDATA[<p>We are reading texts on the theory of random $p$-adic matrices and Cohen–Lenstra heuristics. Our sources are</p>
+<ul>
+  <li><a href="https://terrytao.wordpress.com/wp-content/uploads/2011/08/matrix-book.pdf">Topics in random matrix theory</a> by <a href="https://www.math.ucla.edu/~tao/">Terence Tao</a></li>
+  <li><a href="https://www.wisdom.weizmann.ac.il/~zeitouni/cupbook.pdf">An Introduction to Random Matrices</a> by <a href="https://cse.umn.edu/math/greg-anderson">Greg W. Anderson</a>, <a href="https://perso.ens-lyon.fr/aguionne/index.html">Alice Guionnet</a>, and <a href="https://cims.nyu.edu/~zeitouni/">Ofer Zeitouni</a></li>
+  <li><a href="https://doi.org/10.4171/icm2022/145">Probability theory for random groups arising in number theory</a> by <a href="https://people.math.harvard.edu/~mmwood/">Melanie Matchett Wood</a></li>
+  <li><a href="https://pub.math.leidenuniv.nl/~lenstrahw/PUBLICATIONS/1984e/art.pdf">Heuristics on class groups of number fields</a> by <a href="https://www.math.u-bordeaux.fr/~hecohen/">Henri Cohen</a> and <a href="https://math.berkeley.edu/~hwl/">Hendrik W. Lenstra Jr.</a></li>
+  <li><a href="https://doi-org.nuigalway.idm.oclc.org/10.1016/j.aim.2023.109451">Universality of cokernels of random matrix products</a> by <a href="https://people.math.osu.edu/nguyen.1261/">Hoi H. Nguyen</a> and <a href="https://www.math.columbia.edu/~rv2549/">Roger Van Peski</a></li>
+  <li><a href="https://doi.org/10.1353/ajm.2019.0008">Random integral matrices and the Cohen–Lenstra heuristics</a> by <a href="https://people.math.harvard.edu/~mmwood/">Melanie Matchett Wood</a></li>
+</ul>
+
+<p>We meet on ? at ?. Contact <a href="mailto:joshua.maglione@universityofgalway.ie">Joshua Maglione</a> if you are interested in joining.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Reading</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td>Section 1.1 (Tao)</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>Joshua Maglione</name></author><summary type="html"><![CDATA[We are reading texts on the theory of random $p$-adic matrices and Cohen–Lenstra heuristics. Our sources are Topics in random matrix theory by Terence Tao An Introduction to Random Matrices by Greg W. Anderson, Alice Guionnet, and Ofer Zeitouni Probability theory for random groups arising in number theory by Melanie Matchett Wood Heuristics on class groups of number fields by Henri Cohen and Hendrik W. Lenstra Jr. Universality of cokernels of random matrix products by Hoi H. Nguyen and Roger Van Peski Random integral matrices and the Cohen–Lenstra heuristics by Melanie Matchett Wood]]></summary></entry><entry><title type="html">Theory of Species of Structures</title><link href="https://acreadinggroup.github.io/2025/08/10/Species.html" rel="alternate" type="text/html" title="Theory of Species of Structures" /><published>2025-08-10T13:00:00+01:00</published><updated>2025-08-10T13:00:00+01:00</updated><id>https://acreadinggroup.github.io/2025/08/10/Species</id><content type="html" xml:base="https://acreadinggroup.github.io/2025/08/10/Species.html"><![CDATA[<p>We are reading texts on the theory of species of structures. Our sources are</p>
 <ul>
   <li><a href="https://bergeron.math.uqam.ca/wp-content/uploads/2013/11/book.pdf">Introduction to the Theory of Species of Structures</a> by <a href="https://bergeron.math.uqam.ca/">François Bergeron</a>, Gilbert Labelle, and Pierre Leroux</li>
   <li><a href="https://doi.org/10.1016/j.exmath.2019.09.003">A species approach to Rota’s twelvefold way</a> by <a href="https://akc.is/">Anders Claesson</a></li>

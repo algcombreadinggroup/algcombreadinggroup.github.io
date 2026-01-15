@@ -6,23 +6,16 @@ date: 2026-01-05 08:00:00 -0400
 background: "/img/rory-hennessey-UR-9hOEW-Ww-unsplash.jpg"
 ---
 
-We need to decide on a topic to discuss for the semester. Here is the current list of suggestions:
-1. Lorentzian polynomials (JM)
-	- [Lorentzian polynomials](https://doi.org/10.48550/arXiv.1902.03719) by Petter Brändén and June Huh
-	- [Combinatorics and Hodge theory](https://doi.org/10.4171/icm2022/205) by June Huh
-2. Representation stability (TR)
-	- [Structures in Representation Stability](https://doi.org/10.1090/noti2011) by Steven V Sam 
-	- [Representation stability](https://math.uchicago.edu/~farb/papers/ICM-webpage.pdf) by Benson Farb
-3. Random matrices and Cohen--Lenstra heuristics (JM)
-
-
-
 We are reading texts on the theory of random $p$-adic matrices and Cohen--Lenstra heuristics. Our sources are
+- [Topics in random matrix theory](https://terrytao.wordpress.com/wp-content/uploads/2011/08/matrix-book.pdf) by [Terence Tao](https://www.math.ucla.edu/~tao/)
+- [An Introduction to Random Matrices](https://www.wisdom.weizmann.ac.il/~zeitouni/cupbook.pdf) by [Greg W. Anderson](https://cse.umn.edu/math/greg-anderson), [Alice Guionnet](https://perso.ens-lyon.fr/aguionne/index.html), and [Ofer Zeitouni](https://cims.nyu.edu/~zeitouni/)
+- [Probability theory for random groups arising in number theory](https://doi.org/10.4171/icm2022/145) by [Melanie Matchett Wood](https://people.math.harvard.edu/~mmwood/)
+- [Heuristics on class groups of number fields](https://pub.math.leidenuniv.nl/~lenstrahw/PUBLICATIONS/1984e/art.pdf) by [Henri Cohen](https://www.math.u-bordeaux.fr/~hecohen/) and [Hendrik W. Lenstra Jr.](https://math.berkeley.edu/~hwl/)
 - [Universality of cokernels of random matrix products](https://doi-org.nuigalway.idm.oclc.org/10.1016/j.aim.2023.109451) by [Hoi H. Nguyen](https://people.math.osu.edu/nguyen.1261/) and [Roger Van Peski](https://www.math.columbia.edu/~rv2549/)
 - [Random integral matrices and the Cohen--Lenstra heuristics](https://doi.org/10.1353/ajm.2019.0008) by [Melanie Matchett Wood](https://people.math.harvard.edu/~mmwood/)
 
-We meet on Wednesday at 2:00pm. Contact [Joshua Maglione](mailto:joshua.maglione@universityofgalway.ie) if you are interested in joining.
+We meet on ? at ?. Contact [Joshua Maglione](mailto:joshua.maglione@universityofgalway.ie) if you are interested in joining.
 
 | Date   | Reading                 | 
 | ------ | ----------------------- | 
-|        |                         | 
+|        | Section 1.1 (Tao)       | 
