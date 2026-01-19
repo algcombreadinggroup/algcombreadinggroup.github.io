@@ -14,8 +14,17 @@ We are reading texts on the theory of random $p$-adic matrices and Cohen--Lenstr
 - [Universality of cokernels of random matrix products](https://doi-org.nuigalway.idm.oclc.org/10.1016/j.aim.2023.109451) by [Hoi H. Nguyen](https://people.math.osu.edu/nguyen.1261/) and [Roger Van Peski](https://www.math.columbia.edu/~rv2549/)
 - [Random integral matrices and the Cohen--Lenstra heuristics](https://doi.org/10.1353/ajm.2019.0008) by [Melanie Matchett Wood](https://people.math.harvard.edu/~mmwood/)
 
-We meet on ? at ?. Contact [Joshua Maglione](mailto:joshua.maglione@universityofgalway.ie) if you are interested in joining.
+We meet on Fridays at 10:00am. Contact [Joshua Maglione](mailto:joshua.maglione@universityofgalway.ie) if you are interested in joining.
 
 | Date   | Reading                 | 
 | ------ | ----------------------- | 
-|        | Section 1.1 (Tao)       | 
+| 23 Jan | Section 1.1 (Tao)       |
+| 30 Jan | TBD                     |
+| 06 Feb | TBD                     |
+| 13 Feb | TBD                     |
+| 20 Feb | TBD                     |
+| 27 Feb | TBD                     |
+| 06 Mar | TBD                     |
+| 13 Mar | TBD                     |
+| 20 Mar | TBD                     | 
+| 27 Mar | TBD                     | 
