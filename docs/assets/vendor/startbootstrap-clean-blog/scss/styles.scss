@@ -1,19 +1,25 @@
 // Import variables
-@import "./variables";
+@use "variables/colors" as cb-colors;
+@use "variables/typography" as cb-typography;
 
 // Import Bootstrap
-@import "../../bootstrap/scss/bootstrap";
+@use "bootstrap/scss/variables" with (
+  $primary: cb-colors.$primary,
+  $font-family-base: cb-typography.$font-family-base,
+  $headings-font-family: cb-typography.$headings-font-family
+);
+@use "bootstrap/scss/bootstrap";
 
 // Global CSS
-@import "./global";
+@use "global";
 
 // Components
-@import "./components/buttons";
-@import "./components/navbar";
+@use "components/buttons";
+@use "components/navbar";
 
 // Sections
-@import "./sections/contact";
-@import "./sections/footer";
-@import "./sections/masthead";
-@import "./sections/post";
-@import "./sections/tables";
+@use "sections/contact";
+@use "sections/footer";
+@use "sections/masthead";
+@use "sections/post";
+@use "sections/tables";

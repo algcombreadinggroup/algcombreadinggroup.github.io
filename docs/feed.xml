@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2026-01-15T13:38:28+00:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">Random $p$-adic Matrices</title><link href="https://acreadinggroup.github.io/2026/01/05/Random_p-adic_Matrices.html" rel="alternate" type="text/html" title="Random $p$-adic Matrices" /><published>2026-01-05T12:00:00+00:00</published><updated>2026-01-05T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2026/01/05/Random_p-adic_Matrices</id><content type="html" xml:base="https://acreadinggroup.github.io/2026/01/05/Random_p-adic_Matrices.html"><![CDATA[<p>We are reading texts on the theory of random $p$-adic matrices and Cohen–Lenstra heuristics. Our sources are</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://acreadinggroup.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://acreadinggroup.github.io/" rel="alternate" type="text/html" /><updated>2026-01-19T10:42:52+00:00</updated><id>https://acreadinggroup.github.io/feed.xml</id><title type="html">Algebra &amp;amp; Combinatorics Reading Group</title><subtitle>The homepage for the reading group for the Algebra &amp; Combinatorics research group at the University of Galway.</subtitle><author><name>Joshua Maglione</name></author><entry><title type="html">Random $p$-adic Matrices</title><link href="https://acreadinggroup.github.io/2026/01/05/Random_p-adic_Matrices.html" rel="alternate" type="text/html" title="Random $p$-adic Matrices" /><published>2026-01-05T12:00:00+00:00</published><updated>2026-01-05T12:00:00+00:00</updated><id>https://acreadinggroup.github.io/2026/01/05/Random_p-adic_Matrices</id><content type="html" xml:base="https://acreadinggroup.github.io/2026/01/05/Random_p-adic_Matrices.html"><![CDATA[<p>We are reading texts on the theory of random $p$-adic matrices and Cohen–Lenstra heuristics. Our sources are</p>
 <ul>
   <li><a href="https://terrytao.wordpress.com/wp-content/uploads/2011/08/matrix-book.pdf">Topics in random matrix theory</a> by <a href="https://www.math.ucla.edu/~tao/">Terence Tao</a></li>
   <li><a href="https://www.wisdom.weizmann.ac.il/~zeitouni/cupbook.pdf">An Introduction to Random Matrices</a> by <a href="https://cse.umn.edu/math/greg-anderson">Greg W. Anderson</a>, <a href="https://perso.ens-lyon.fr/aguionne/index.html">Alice Guionnet</a>, and <a href="https://cims.nyu.edu/~zeitouni/">Ofer Zeitouni</a></li>
@@ -8,7 +8,7 @@
   <li><a href="https://doi.org/10.1353/ajm.2019.0008">Random integral matrices and the Cohen–Lenstra heuristics</a> by <a href="https://people.math.harvard.edu/~mmwood/">Melanie Matchett Wood</a></li>
 </ul>
 
-<p>We meet on ? at ?. Contact <a href="mailto:joshua.maglione@universityofgalway.ie">Joshua Maglione</a> if you are interested in joining.</p>
+<p>We meet on Fridays at 10:00am. Contact <a href="mailto:joshua.maglione@universityofgalway.ie">Joshua Maglione</a> if you are interested in joining.</p>
 
 <table>
   <thead>
@@ -19,8 +19,44 @@
   </thead>
   <tbody>
     <tr>
-      <td> </td>
+      <td>23 Jan</td>
       <td>Section 1.1 (Tao)</td>
+    </tr>
+    <tr>
+      <td>30 Jan</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>06 Feb</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>13 Feb</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>20 Feb</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>27 Feb</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>06 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>13 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>20 Mar</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>27 Mar</td>
+      <td>TBD</td>
     </tr>
   </tbody>
 </table>]]></content><author><name>Joshua Maglione</name></author><summary type="html"><![CDATA[We are reading texts on the theory of random $p$-adic matrices and Cohen–Lenstra heuristics. Our sources are Topics in random matrix theory by Terence Tao An Introduction to Random Matrices by Greg W. Anderson, Alice Guionnet, and Ofer Zeitouni Probability theory for random groups arising in number theory by Melanie Matchett Wood Heuristics on class groups of number fields by Henri Cohen and Hendrik W. Lenstra Jr. Universality of cokernels of random matrix products by Hoi H. Nguyen and Roger Van Peski Random integral matrices and the Cohen–Lenstra heuristics by Melanie Matchett Wood]]></summary></entry><entry><title type="html">Theory of Species of Structures</title><link href="https://acreadinggroup.github.io/2025/08/10/Species.html" rel="alternate" type="text/html" title="Theory of Species of Structures" /><published>2025-08-10T13:00:00+01:00</published><updated>2025-08-10T13:00:00+01:00</updated><id>https://acreadinggroup.github.io/2025/08/10/Species</id><content type="html" xml:base="https://acreadinggroup.github.io/2025/08/10/Species.html"><![CDATA[<p>We are reading texts on the theory of species of structures. Our sources are</p>
