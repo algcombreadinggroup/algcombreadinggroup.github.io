@@ -1,13 +1,16 @@
+@use "sass:color";
+@use "bootstrap/scss/variables";
+
 // Styling for the navbar
 #mainNav {
     position: absolute;
-    border-bottom: 1px solid $gray-200;
+    border-bottom: 1px solid variables.$gray-200;
     background-color: white;
-    font-family: $headings-font-family;
+    font-family: variables.$headings-font-family;
 
     .navbar-brand {
         font-weight: 800;
-        color: $gray-800;
+        color: variables.$gray-800;
     }
 
     .navbar-toggler {
@@ -15,7 +18,7 @@
         font-weight: 800;
         padding: 13px;
         text-transform: uppercase;
-        color: $gray-800;
+        color: variables.$gray-800;
     }
 
     .navbar-nav {
@@ -35,11 +38,11 @@
 
         .navbar-brand {
             padding: 10px 20px;
-            color: $white;
+            color: variables.$white;
 
             &:focus,
             &:hover {
-                color: fade-out($white, .2);
+                color: color.adjust(variables.$white, $alpha: -.2);
             }
         }
 
@@ -47,11 +50,11 @@
             >li.nav-item {
                 >a {
                     padding: 10px 20px;
-                    color: $white;
+                    color: variables.$white;
 
                     &:focus,
                     &:hover {
-                        color: fade-out($white, .2);
+                        color: color.adjust(variables.$white, $alpha: -.2);
                     }
                 }
             }
@@ -78,26 +81,26 @@
             -webkit-transition: -webkit-transform 0.2s;
             -moz-transition: -moz-transform 0.2s;
             transition: transform 0.2s;
-            border-bottom: 1px solid darken($white, .05);
-            background-color: fade-out($white, .1);
+            border-bottom: 1px solid color.adjust(variables.$white, $lightness: -0.05%);
+            background-color: color.adjust(variables.$white, $alpha: -.1);
 
             .navbar-brand {
-                color: $gray-900;
+                color: variables.$gray-900;
 
                 &:focus,
                 &:hover {
-                    color: $primary;
+                    color: variables.$primary;
                 }
             }
 
             .navbar-nav {
                 >li.nav-item {
                     >a {
-                        color: $gray-900;
+                        color: variables.$gray-900;
 
                         &:focus,
                         &:hover {
-                            color: $primary;
+                            color: variables.$primary;
                         }
                     }
                 }

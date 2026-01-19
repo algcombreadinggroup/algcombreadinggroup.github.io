@@ -1,12 +1,14 @@
+@use "bootstrap/scss/variables";
+
 // Styling for the post page
 .post-preview {
     >a {
-        color: $gray-900;
+        color: variables.$gray-900;
 
         &:focus,
         &:hover {
             text-decoration: none;
-            color: $primary;
+            color: variables.$primary;
         }
 
         >.post-title {
@@ -25,16 +27,16 @@
         font-size: 18px;
         font-style: italic;
         margin-top: 0;
-        color: $gray-600;
+        color: variables.$gray-600;
 
         >a {
             text-decoration: none;
-            color: $gray-900;
+            color: variables.$gray-900;
 
             &:focus,
             &:hover {
                 text-decoration: underline;
-                color: $primary;
+                color: variables.$primary;
             }
         }
     }

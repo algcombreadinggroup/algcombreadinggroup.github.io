@@ -1,10 +1,12 @@
+@use "bootstrap/scss/variables";
+
 // Styling for the contact page
 .floating-label-form-group {
     font-size: 14px;
     position: relative;
     margin-bottom: 0;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $gray-300;
+    border-bottom: 1px solid variables.$gray-300;
 
     input,
     textarea {
@@ -19,7 +21,7 @@
         box-shadow: none !important;
 
         &::-webkit-input-placeholder {
-            color: $gray-600;
+            color: variables.$gray-600;
         }
     }
 
@@ -52,10 +54,10 @@
 
 .floating-label-form-group-with-focus {
     label {
-        color: $primary;
+        color: variables.$primary;
     }
 }
 
 form .form-group:first-child .floating-label-form-group {
-    border-top: 1px solid $gray-300;
+    border-top: 1px solid variables.$gray-300;
 }

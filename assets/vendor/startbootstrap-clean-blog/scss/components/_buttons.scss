@@ -1,3 +1,6 @@
+@use "sass:color";
+@use "bootstrap/scss/variables";
+
 // Bootstrap overrides for this template
 .btn {
     font-size: 14px;
@@ -6,19 +9,19 @@
     letter-spacing: 1px;
     text-transform: uppercase;
     border-radius: 0;
-    font-family: $headings-font-family;
+    font-family: variables.$headings-font-family;
 }
 
 .btn-primary {
-    background-color: $primary;
-    border-color: $primary;
+    background-color: variables.$primary;
+    border-color: variables.$primary;
 
     &:hover,
     &:focus,
     &:active {
-        color: $white;
-        background-color: darken($primary, 7.5) !important;
-        border-color: darken($primary, 7.5) !important;
+        color: variables.$white;
+        background-color: color.adjust(variables.$primary, $lightness: -7.5%) !important;
+        border-color: color.adjust(variables.$primary, $lightness: -7.5%) !important;
     }
 }
 
