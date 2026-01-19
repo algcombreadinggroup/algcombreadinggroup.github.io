@@ -1,12 +1,22 @@
 // Import variables
+@use "sass:color";
 @use "variables/colors" as cb-colors;
 @use "variables/typography" as cb-typography;
+
+$body-bg: #eeebe6;
+$body-color: #1f2328;
+$link-color: #0f5e73;
+$link-hover-color: color.adjust($link-color, $lightness: -15%);
 
 // Import Bootstrap
 @use "bootstrap/scss/variables" with (
   $primary: cb-colors.$primary,
   $font-family-base: cb-typography.$font-family-base,
-  $headings-font-family: cb-typography.$headings-font-family
+  $headings-font-family: cb-typography.$headings-font-family,
+  $body-bg: $body-bg,
+  $body-color: $body-color,
+  $link-color: $link-color,
+  $link-hover-color: $link-hover-color
 );
 @use "bootstrap/scss/bootstrap";
 

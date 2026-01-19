@@ -59,9 +59,9 @@ body {
   font-size: 0.0625remrem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #1f2328;
   text-align: left;
-  background-color: #fff;
+  background-color: #eeebe6;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -152,12 +152,12 @@ sup {
 }
 
 a {
-  color: #0085A1;
+  color: #0f5e73;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: rgb(0, 69.8043478261, 84.5);
+  color: rgb(6.1730769231, 38.6846153846, 47.3269230769);
   text-decoration: underline;
 }
 
@@ -528,7 +528,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: #eeebe6;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -1518,7 +1518,7 @@ pre code {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #212529;
+  color: #1f2328;
 }
 .table th,
 .table td {
@@ -1563,7 +1563,7 @@ pre code {
 }
 
 .table-hover tbody tr:hover {
-  color: #212529;
+  color: #1f2328;
   background-color: rgba(0, 0, 0, 0.075);
 }
 
@@ -1917,7 +1917,7 @@ select.form-control:focus::-ms-value {
   margin-bottom: 0;
   font-size: 0.0625remrem;
   line-height: 1.5;
-  color: #212529;
+  color: #1f2328;
   background-color: transparent;
   border: solid transparent;
   border-width: 1px 0;
@@ -2256,7 +2256,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #212529;
+  color: #1f2328;
   text-align: center;
   vertical-align: middle;
   user-select: none;
@@ -2274,7 +2274,7 @@ textarea.form-control {
   }
 }
 .btn:hover {
-  color: #212529;
+  color: #1f2328;
   text-decoration: none;
 }
 .btn:focus, .btn.focus {
@@ -2734,11 +2734,11 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #0085A1;
+  color: #0f5e73;
   text-decoration: none;
 }
 .btn-link:hover {
-  color: rgb(0, 69.8043478261, 84.5);
+  color: rgb(6.1730769231, 38.6846153846, 47.3269230769);
   text-decoration: underline;
 }
 .btn-link:focus, .btn-link.focus {
@@ -2840,7 +2840,7 @@ input[type=button].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 0.0625remrem;
-  color: #212529;
+  color: #1f2328;
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -3582,13 +3582,13 @@ input[type=button].btn-block {
   outline: 0;
 }
 .custom-range:focus::-webkit-slider-thumb {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(0, 133, 161, 0.25);
+  box-shadow: 0 0 0 1px #eeebe6, 0 0 0 0.2rem rgba(0, 133, 161, 0.25);
 }
 .custom-range:focus::-moz-range-thumb {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(0, 133, 161, 0.25);
+  box-shadow: 0 0 0 1px #eeebe6, 0 0 0 0.2rem rgba(0, 133, 161, 0.25);
 }
 .custom-range:focus::-ms-thumb {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(0, 133, 161, 0.25);
+  box-shadow: 0 0 0 1px #eeebe6, 0 0 0 0.2rem rgba(0, 133, 161, 0.25);
 }
 .custom-range::-moz-focus-outer {
   border: 0;
@@ -3760,8 +3760,8 @@ input[type=button].btn-block {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #495057;
-  background-color: #fff;
-  border-color: #dee2e6 #dee2e6 #fff;
+  background-color: #eeebe6;
+  border-color: #dee2e6 #dee2e6 #eeebe6;
 }
 .nav-tabs .dropdown-menu {
   margin-top: -1px;
@@ -4396,13 +4396,13 @@ input[type=button].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #0085A1;
+  color: #0f5e73;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
 .page-link:hover {
   z-index: 2;
-  color: rgb(0, 69.8043478261, 84.5);
+  color: rgb(6.1730769231, 38.6846153846, 47.3269230769);
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
@@ -4824,7 +4824,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   background-color: #f8f9fa;
 }
 .list-group-item-action:active {
-  color: #212529;
+  color: #1f2328;
   background-color: #e9ecef;
 }
 
@@ -5612,7 +5612,7 @@ a.close.disabled {
 
 .popover-body {
   padding: 0.5rem 0.75rem;
-  color: #212529;
+  color: #1f2328;
 }
 
 .carousel {
@@ -9082,7 +9082,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-body {
-  color: #212529 !important;
+  color: #1f2328 !important;
 }
 
 .text-muted {
@@ -9214,7 +9214,7 @@ p {
   margin: 30px 0;
 }
 p a {
-  text-decoration: underline;
+  text-decoration: inherit;
 }
 
 h1,
@@ -9305,7 +9305,7 @@ img::-moz-selection {
 #mainNav {
   position: absolute;
   border-bottom: 1px solid #e9ecef;
-  background-color: white;
+  background-color: #eeebe6;
   font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 #mainNav .navbar-brand {
@@ -9366,8 +9366,8 @@ img::-moz-selection {
     -webkit-transition: -webkit-transform 0.2s;
     -moz-transition: -moz-transform 0.2s;
     transition: transform 0.2s;
-    border-bottom: 1px solid rgb(254.8725, 254.8725, 254.8725);
-    background-color: rgba(255, 255, 255, 0.9);
+    border-bottom: 1px solid rgb(227.6785714286, 222.8571428571, 214.8214285714);
+    background-color: #eeebe6;
   }
   #mainNav.is-fixed .navbar-brand {
     color: #212529;
@@ -9583,7 +9583,7 @@ header.masthead .post-heading .meta a {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #212529;
+  color: #1f2328;
 }
 .table th,
 .table td {
@@ -9628,7 +9628,7 @@ header.masthead .post-heading .meta a {
 }
 
 .table-hover tbody tr:hover {
-  color: #212529;
+  color: #1f2328;
   background-color: rgba(0, 0, 0, 0.075);
 }
 
