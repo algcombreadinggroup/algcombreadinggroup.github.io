@@ -19,7 +19,7 @@ We meet on Fridays at 10:00am. Contact [Joshua Maglione](mailto:joshua.maglione@
 | Date   | Reading                 | 
 | ------ | ----------------------- | 
 | 23 Jan | Section 1.1 (Tao)       |
-| 30 Jan | TBD                     |
+| 30 Jan | Section 1.1 (Tao)       |
 | 06 Feb | TBD                     |
 | 13 Feb | TBD                     |
 | 20 Feb | TBD                     |
