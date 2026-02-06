@@ -21,7 +21,7 @@ We meet on Fridays at 10:00am. Contact [Joshua Maglione](mailto:joshua.maglione@
 | 23 Jan | Section 1.1 (Tao)       |
 | 30 Jan | Section 1.1 (Tao)       |
 | 06 Feb | Section 1.1 (Tao)       |
-| 13 Feb | TBD                     |
+| 13 Feb | Section 2.1 (Anderson et al.) |
 | 20 Feb | TBD                     |
 | 27 Feb | TBD                     |
 | 06 Mar | TBD                     |
