@@ -9,6 +9,7 @@ background: "/img/rory-hennessey-UR-9hOEW-Ww-unsplash.jpg"
 We are reading texts on the theory of random $p$-adic matrices and Cohen--Lenstra heuristics. Our sources are
 - [Topics in random matrix theory](https://terrytao.wordpress.com/wp-content/uploads/2011/08/matrix-book.pdf) by [Terence Tao](https://www.math.ucla.edu/~tao/)
 - [An Introduction to Random Matrices](https://www.wisdom.weizmann.ac.il/~zeitouni/cupbook.pdf) by [Greg W. Anderson](https://cse.umn.edu/math/greg-anderson), [Alice Guionnet](https://perso.ens-lyon.fr/aguionne/index.html), and [Ofer Zeitouni](https://cims.nyu.edu/~zeitouni/)
+- [The Cohen–Lenstra principle](https://www.nieuwarchief.nl/serie5/pdf/naw5-2024-25-3-184.pdf) by [Alex Bartel](https://www.maths.gla.ac.uk/~abartel/)
 - [Probability theory for random groups arising in number theory](https://doi.org/10.4171/icm2022/145) by [Melanie Matchett Wood](https://people.math.harvard.edu/~mmwood/)
 - [Heuristics on class groups of number fields](https://pub.math.leidenuniv.nl/~lenstrahw/PUBLICATIONS/1984e/art.pdf) by [Henri Cohen](https://www.math.u-bordeaux.fr/~hecohen/) and [Hendrik W. Lenstra Jr.](https://math.berkeley.edu/~hwl/)
 - [Universality of cokernels of random matrix products](https://doi-org.nuigalway.idm.oclc.org/10.1016/j.aim.2023.109451) by [Hoi H. Nguyen](https://people.math.osu.edu/nguyen.1261/) and [Roger Van Peski](https://www.math.columbia.edu/~rv2549/)
@@ -23,7 +24,7 @@ We meet on Fridays at 10:00am. Contact [Joshua Maglione](mailto:joshua.maglione@
 | 06 Feb | Section 1.1 (Tao)       |
 | 13 Feb | Section 2.1 (Anderson et al.) |
 | 20 Feb | Section 2.1 (Anderson et al.) |
-| 27 Feb | TBD                     |
+| 27 Feb | Bartel and Cohen & Lenstra |
 | 06 Mar | TBD                     |
 | 13 Mar | TBD                     |
 | 20 Mar | TBD                     | 
