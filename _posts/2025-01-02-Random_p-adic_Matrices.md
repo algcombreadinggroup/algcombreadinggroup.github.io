@@ -25,7 +25,7 @@ We meet on Fridays at 10:00am. Contact [Joshua Maglione](mailto:joshua.maglione@
 | 13 Feb | Section 2.1 (Anderson et al.) |
 | 20 Feb | Section 2.1 (Anderson et al.) |
 | 27 Feb | Bartel and Cohen & Lenstra |
-| 06 Mar | TBD                     |
+| 06 Mar | ICM notes (Woods' *Probability theory ...*) |
 | 13 Mar | TBD                     |
 | 20 Mar | TBD                     | 
 | 27 Mar | TBD                     | 
