@@ -16,7 +16,7 @@ Contact [Joshua Maglione](mailto:joshua.maglione@universityofgalway.ie) if you a
 | ------ | ----------------------- | 
 | 18 Sep | Sections 1 & 2 (Brändén) |
 | 25 Sep | Section 3 (Brändén)     |
-| 02 Oct | TBD                     |
+| 02 Oct | Section 3 (Brändén)     |
 | 09 Oct | TBD                     |
 | 16 Oct | TBD                     |
 | 23 Oct | TBD                     |
