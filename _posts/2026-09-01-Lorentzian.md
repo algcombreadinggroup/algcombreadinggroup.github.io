@@ -22,6 +22,6 @@ Contact [Joshua Maglione](mailto:joshua.maglione@universityofgalway.ie) if you a
 | 23 Oct | Sections 7.1&ndash;8 (Brändén) |
 | 30 Oct | Sections 1&ndash;2.1 (Brändén&ndash;Huh) |
 | 06 Nov | Section 2.1 (Brändén&ndash;Huh) |
-| 13 Nov | TBD                     | 
+| 13 Nov | Sections 2.1--2.2 (Brändén&ndash;Huh) | 
 | 20 Nov | TBD                     |
 | 27 Nov | TBD                     | 
